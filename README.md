@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sherak10 and I'm a Full Stack Engineer
 - 👀 I’m interested in building Web and Mobile Applications
 - 🌱 I’m currently learning React and Spring Boot
-- :student: Student account @sherak
+- :student: Old student account @sherak
 - :heart: Super necessary :boxing_glove: :wrestling: :martial_arts_uniform: :runner:
 - 📫 simone.herak10@gmail.com
 
